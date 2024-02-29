@@ -1,6 +1,6 @@
-#BERT for Relation Classification using TensorFlow
-##Code by **Thao Nguyen**
-##Based on *Enriching Pre-trained Language Model with Entity Information for  Relation Classification* (2020) by **Shanchan Wu** and **Yifan He**
+# BERT for Relation Classification using TensorFlow
+## Code by **Thao Nguyen**
+## Based on *Enriching Pre-trained Language Model with Entity Information for  Relation Classification* (2020) by **Shanchan Wu** and **Yifan He**
 Source paper: https://arxiv.org/pdf/1905.08284v1.pdf
 
 ---
